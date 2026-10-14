@@ -1,5 +1,7 @@
 # sheet-cleaner
 
+![demo: a real run of the tool](docs/demo.gif)
+
 For the spreadsheet everyone keeps fixing by hand. Names with extra spaces, emails in caps, amounts written five different ways, dates in three formats, a blank row in the middle, the same customer twice.
 
 Give it the file and a few rules. You get back a clean copy, and nothing disappears without a reason.
