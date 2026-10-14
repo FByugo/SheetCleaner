@@ -1,0 +1,23 @@
+row,reason,customer_name,email,amount,qty,order_date
+3,amount='TBD' is not a valid money,  Ivy Diaz ,ivy.diaz@example.com,TBD,1,2026-07-19
+6,customer_name is blank,,ivy.kim@example.com,$723.40,9,3/14/26
+7,"amount='€2189' is in €, column is $",Kai Ode,kai.ode@example.com,€2189,8,2026-08-19
+8,email='kai.ode_at_example.com' is not a valid email,  Kai Ode ,kai.ode_at_example.com,1619.59,5,7/23/26
+14,"amount='€365' is in €, column is $",Hal Kim,hal.kim@example.com,€365,8,2026-03-27
+15,"amount='€1609' is in €, column is $",Lu Lopez,lu.lopez@example.com,€1609,9,3/12/26
+16,customer_name is blank,,fay.hart@example.com,1897.01,7,04/24/2026
+17,"amount='€1515' is in €, column is $",Ana Moe,ANA.MOE@EXAMPLE.COM,€1515,6,2026-04-03
+22,empty row,,,,,
+30,"amount='€2125' is in €, column is $",Cy Moe,cy.moe@example.com,€2125,7,2026/9/5
+31,"customer_name is blank; amount='€2346' is in €, column is $",,LU.PARK@EXAMPLE.COM,€2346,2,2026-04-20
+36,"amount='€118' is in €, column is $",Kai Moe,kai.moe@example.com,€118,8,5/1/26
+43,"amount='€639' is in €, column is $",  Jo Hart ,JO.HART@EXAMPLE.COM,€639,3,2026-08-01
+44,amount='TBD' is not a valid money,  Di Kim ,di.kim@example.com,TBD,9,2026-05-07
+47,"customer_name is blank; amount='€307' is in €, column is $",,lu.park@example.com,€307,6,2026-07-27
+49,amount='TBD' is not a valid money,  Kai Park ,kai.park@example.com,TBD,7,07/01/2026
+56,email='HAL.KIM_at_EXAMPLE.COM' is not a valid email,  Hal Kim ,HAL.KIM_at_EXAMPLE.COM,$390.17,8,2026-09-03
+58,email='ana.moe_at_example.com' is not a valid email,Ana Moe,ana.moe_at_example.com,794.31,8,04/17/2026
+59,email='ana.lopez_at_example.com' is not a valid email,  Ana Lopez ,ana.lopez_at_example.com,1619.69,7,2026/4/12
+61,amount='TBD' is not a valid money; email='ed.ode_at_example.com' is not a valid email,Ed Ode,ed.ode_at_example.com,TBD,1,2026/3/20
+62,"amount='€1127' is in €, column is $",Gus Lopez,GUS.LOPEZ@EXAMPLE.COM,€1127,2,3/3/26
+63,"amount='€2189' is in €, column is $",Kai Ode,kai.ode@example.com,€2189,8,2026-08-19

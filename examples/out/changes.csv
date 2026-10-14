@@ -1,0 +1,77 @@
+row,column,before,after,rule
+4,customer_name,  Ed Diaz ,Ed Diaz,whitespace
+9,customer_name,  Ben Kim ,Ben Kim,whitespace
+11,customer_name,  Jo Park ,Jo Park,whitespace
+21,customer_name,  Ana Moe ,Ana Moe,whitespace
+28,customer_name,  Gus Kim ,Gus Kim,whitespace
+33,customer_name,  Ivy Hart ,Ivy Hart,whitespace
+48,customer_name,  Lu Moe ,Lu Moe,whitespace
+55,customer_name,  Ana Park ,Ana Park,whitespace
+60,customer_name,  Kai Diaz ,Kai Diaz,whitespace
+2,amount," 2,054.08 ","2,054.08",whitespace
+11,amount," 1,050.27 ","1,050.27",whitespace
+21,amount," 1,910.38 ","1,910.38",whitespace
+23,amount, 331.25 ,331.25,whitespace
+24,amount, 159.08 ,159.08,whitespace
+25,amount," 2,281.66 ","2,281.66",whitespace
+26,amount," 2,355.74 ","2,355.74",whitespace
+28,amount, 563.16 ,563.16,whitespace
+29,amount, 832.09 ,832.09,whitespace
+53,amount," 1,034.89 ","1,034.89",whitespace
+55,amount," 2,239.76 ","2,239.76",whitespace
+2,amount,"2,054.08",2054.08,money
+11,amount,"1,050.27",1050.27,money
+12,amount,1206.40,1206.4,money
+18,amount,"$2,000.11",2000.11,money
+20,amount,$40.54,40.54,money
+21,amount,"1,910.38",1910.38,money
+25,amount,"2,281.66",2281.66,money
+26,amount,"2,355.74",2355.74,money
+33,amount,$448.86,448.86,money
+35,amount,$140.70,140.7,money
+37,amount,(894.68),-894.68,money
+41,amount,"$1,703.26",1703.26,money
+45,amount,"$2,291.80",2291.8,money
+48,amount,$978.45,978.45,money
+50,amount,127.20,127.2,money
+51,amount,"$1,210.54",1210.54,money
+53,amount,"1,034.89",1034.89,money
+54,amount,"$1,976.83",1976.83,money
+55,amount,"2,239.76",2239.76,money
+57,amount,"$1,322.99",1322.99,money
+4,order_date,4/19/26,2026-04-19,date
+5,order_date,04/10/2026,2026-04-10,date
+9,order_date,2026/3/3,2026-03-03,date
+10,order_date,03/03/2026,2026-03-03,date
+12,order_date,08/07/2026,2026-08-07,date
+13,order_date,5/5/26,2026-05-05,date
+18,order_date,2026/4/26,2026-04-26,date
+19,order_date,08/05/2026,2026-08-05,date
+20,order_date,2026/3/24,2026-03-24,date
+23,order_date,08/28/2026,2026-08-28,date
+25,order_date,09/20/2026,2026-09-20,date
+26,order_date,08/27/2026,2026-08-27,date
+27,order_date,05/05/2026,2026-05-05,date
+28,order_date,07/11/2026,2026-07-11,date
+34,order_date,7/27/26,2026-07-27,date
+37,order_date,05/16/2026,2026-05-16,date
+38,order_date,09/19/2026,2026-09-19,date
+39,order_date,2026/9/27,2026-09-27,date
+40,order_date,01/01/2026,2026-01-01,date
+45,order_date,9/5/26,2026-09-05,date
+50,order_date,7/16/26,2026-07-16,date
+52,order_date,3/3/26,2026-03-03,date
+53,order_date,5/13/26,2026-05-13,date
+54,order_date,2026/7/8,2026-07-08,date
+55,order_date,2026/2/1,2026-02-01,date
+57,order_date,05/03/2026,2026-05-03,date
+60,order_date,05/07/2026,2026-05-07,date
+2,email,FAY.PARK@EXAMPLE.COM,fay.park@example.com,email
+4,email,ED.DIAZ@EXAMPLE.COM,ed.diaz@example.com,email
+11,email,JO.PARK@EXAMPLE.COM,jo.park@example.com,email
+20,email,FAY.PARK@EXAMPLE.COM,fay.park@example.com,email
+24,email,CY.KIM@EXAMPLE.COM,cy.kim@example.com,email
+29,email,FAY.KIM@EXAMPLE.COM,fay.kim@example.com,email
+34,email,HAL.HART@EXAMPLE.COM,hal.hart@example.com,email
+38,email,BEN.PARK@EXAMPLE.COM,ben.park@example.com,email
+48,email,LU.MOE@EXAMPLE.COM,lu.moe@example.com,email

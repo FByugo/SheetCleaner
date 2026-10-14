@@ -1,0 +1,6 @@
+{
+ "rename": {"e_mail": "email", "amount_paid": "amount"},
+ "required": ["customer_name", "email"],
+ "types": {"amount": "money", "qty": "int", "order_date": "date", "email": "email"},
+ "dedupe_on": ["email", "order_date"]
+}

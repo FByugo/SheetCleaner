@@ -1,0 +1,19 @@
+[project]
+name = "sheet-cleaner"
+version = "1.0.0"
+description = "Clean messy CSV and Excel files by simple rules, and list every change and every rejected row."
+requires-python = ">=3.10"
+dependencies = ["typer>=0.12", "pandas>=2.0", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[project.scripts]
+sheet-cleaner = "sheet_cleaner.cli:app"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["sheet_cleaner"]

@@ -1,0 +1,63 @@
+ Customer Name ,E-mail,Amount Paid,Qty,Order Date
+Fay Park,FAY.PARK@EXAMPLE.COM," 2,054.08 ",1,2026-04-17
+  Ivy Diaz ,ivy.diaz@example.com,TBD,1,2026-07-19
+  Ed Diaz ,ED.DIAZ@EXAMPLE.COM,774.66,2,4/19/26
+Jo Hart,jo.hart@example.com,1944.19,6,04/10/2026
+,ivy.kim@example.com,$723.40,9,3/14/26
+Kai Ode,kai.ode@example.com,€2189,8,2026-08-19
+  Kai Ode ,kai.ode_at_example.com,1619.59,5,7/23/26
+  Ben Kim ,ben.kim@example.com,327.7,8,2026/3/3
+Gus Moe,gus.moe@example.com,1708.39,3,03/03/2026
+  Jo Park ,JO.PARK@EXAMPLE.COM," 1,050.27 ",6,2026-09-05
+Kai Diaz,kai.diaz@example.com,1206.40,2,08/07/2026
+Jo Park,jo.park@example.com,1536.27,7,5/5/26
+Hal Kim,hal.kim@example.com,€365,8,2026-03-27
+Lu Lopez,lu.lopez@example.com,€1609,9,3/12/26
+,fay.hart@example.com,1897.01,7,04/24/2026
+Ana Moe,ANA.MOE@EXAMPLE.COM,€1515,6,2026-04-03
+Jo Lopez,jo.lopez@example.com,"$2,000.11",7,2026/4/26
+Ben Diaz,ben.diaz@example.com,216.87,1,08/05/2026
+Fay Park,FAY.PARK@EXAMPLE.COM,$40.54,9,2026/3/24
+  Ana Moe ,ana.moe@example.com," 1,910.38 ",7,2026-03-27
+,,,,
+Jo Diaz,jo.diaz@example.com, 331.25 ,1,08/28/2026
+Cy Kim,CY.KIM@EXAMPLE.COM, 159.08 ,9,2026-02-16
+Ivy Kim,ivy.kim@example.com," 2,281.66 ",9,09/20/2026
+Hal Hart,hal.hart@example.com," 2,355.74 ",4,08/27/2026
+Kai Hart,kai.hart@example.com,760.44,6,05/05/2026
+  Gus Kim ,gus.kim@example.com, 563.16 ,7,07/11/2026
+Fay Kim,FAY.KIM@EXAMPLE.COM, 832.09 ,2,2026-04-04
+Cy Moe,cy.moe@example.com,€2125,7,2026/9/5
+,LU.PARK@EXAMPLE.COM,€2346,2,2026-04-20
+Ivy Diaz,ivy.diaz@example.com,327.42,2,2026-05-06
+  Ivy Hart ,ivy.hart@example.com,$448.86,5,2026-01-02
+Hal Hart,HAL.HART@EXAMPLE.COM,2048.21,9,7/27/26
+Lu Park,lu.park@example.com,$140.70,5,2026-03-14
+Kai Moe,kai.moe@example.com,€118,8,5/1/26
+Di Lopez,di.lopez@example.com,(894.68),2,05/16/2026
+Ben Park,BEN.PARK@EXAMPLE.COM,61.12,2,09/19/2026
+Gus Ray,gus.ray@example.com,714.02,1,2026/9/27
+Ivy Lopez,ivy.lopez@example.com,2232.61,2,01/01/2026
+Hal Lopez,hal.lopez@example.com,"$1,703.26",8,2026-02-26
+Ed Ode,ed.ode@example.com,1892.32,8,2026-07-28
+  Jo Hart ,JO.HART@EXAMPLE.COM,€639,3,2026-08-01
+  Di Kim ,di.kim@example.com,TBD,9,2026-05-07
+Ivy Kim,ivy.kim@example.com,"$2,291.80",2,9/5/26
+Ivy Moe,ivy.moe@example.com,582.3,7,2026-03-01
+,lu.park@example.com,€307,6,2026-07-27
+  Lu Moe ,LU.MOE@EXAMPLE.COM,$978.45,6,2026-05-14
+  Kai Park ,kai.park@example.com,TBD,7,07/01/2026
+Hal Park,hal.park@example.com,127.20,3,7/16/26
+Kai Moe,kai.moe@example.com,"$1,210.54",3,2026-03-21
+Di Kim,di.kim@example.com,1127.65,4,3/3/26
+Jo Hart,jo.hart@example.com," 1,034.89 ",4,5/13/26
+Fay Park,fay.park@example.com,"$1,976.83",5,2026/7/8
+  Ana Park ,ana.park@example.com," 2,239.76 ",8,2026/2/1
+  Hal Kim ,HAL.KIM_at_EXAMPLE.COM,$390.17,8,2026-09-03
+Ana Moe,ana.moe@example.com,"$1,322.99",2,05/03/2026
+Ana Moe,ana.moe_at_example.com,794.31,8,04/17/2026
+  Ana Lopez ,ana.lopez_at_example.com,1619.69,7,2026/4/12
+  Kai Diaz ,kai.diaz@example.com,1849.13,8,05/07/2026
+Ed Ode,ed.ode_at_example.com,TBD,1,2026/3/20
+Gus Lopez,GUS.LOPEZ@EXAMPLE.COM,€1127,2,3/3/26
+Kai Ode,kai.ode@example.com,€2189,8,2026-08-19
